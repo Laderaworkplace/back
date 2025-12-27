@@ -1,0 +1,24 @@
+(1) guys this api is for testing create employee data=>http://localhost:7000/admin/add-employee
+and the you should enter data in the body like be this =>{
+  "employeeid": "EMP004",
+  "empname": "Rahul Kumar",
+  "email": "rahul@gmail.com",
+  "phone": "9876543210",
+
+  "department": "Engineering",
+  "designation": "Frontend Developer",
+  "salary": "50000",
+  "joining": "2024-05-12",
+  "employeetype": "Full-time",
+
+  "bankstatus": "Active",
+  "managername": "Suresh",
+
+  "image": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=ausserorts-bauernhof-bewolkt-236047.jpg&fm=jpg",
+
+  "address": "Anna Nagar",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "country": "India"
+}
+---------------------------------------------------------------------------------------------
